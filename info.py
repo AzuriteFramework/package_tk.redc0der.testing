@@ -14,5 +14,5 @@ target_os = ['osx', 'linux', 'windows', 'ios', 'android']
 
 dependencies = {
 'packages': [],
-'python_modules': ['testtt']
+'python_modules': []
 }
